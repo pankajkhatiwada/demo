@@ -3,6 +3,5 @@ Welcome
 Egg
 Apple
 
-Chicken
 
 Thank you
